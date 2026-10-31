@@ -9,7 +9,7 @@ Workforce Training · Research &amp; Writing · Blockchain &amp; Cryptography</p
 
 
 <p align="center">
-<a href="#about">About</a> · <a href="#-knowedge-publishing--my-books">My Books</a> · <a href="#skills--technology-ecosystem">Skills &amp; Tools</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
+<a href="#about">About</a> · <a href="#-knowedge-publishing--my-books">My Books</a> · <a href="#-academic--research-writing">Research</a> · <a href="#skills--technology-ecosystem">Skills &amp; Tools</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
 </p>
 
 ---
@@ -130,6 +130,46 @@ My **16-book series** explores AI across business operations, individual product
 <p align="center">
 <a href="https://knowedgepublishing.com/books"><b>📖 Explore All Books</b></a> &nbsp;·&nbsp;
 <a href="https://knowedgepublishing.com/"><b>🌐 Visit KnowEdge Publishing</b></a>
+</p>
+
+## 🎓 Academic & Research Writing
+
+My academic and research writing explores **technology, security, business communication and education**. I share selected work through **[Academia.edu](https://independent.academia.edu/KelvinkingOlupitanOmoregie)**, connecting research questions with practical challenges.
+
+### Selected Research & Academic Work
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://www.academia.edu/9922252/A_SYSTEMATIC_REVIEW_OF_SECURITY_CHALLENGES_IN_CLOUD_COMPUTING"><img src="assets/research-cloud-security.svg" width="280" alt="A Systematic Review of Security Challenges in Cloud Computing — research topic card" /></a><br/>
+<a href="https://www.academia.edu/9922252/A_SYSTEMATIC_REVIEW_OF_SECURITY_CHALLENGES_IN_CLOUD_COMPUTING"><b>A Systematic Review of Security Challenges in Cloud Computing</b></a><br/><br/>
+<sub>Review proposal</sub>
+<p>A capstone proposal outlining a systematic review of cloud security challenges.</p>
+<a href="https://www.academia.edu/9922252/A_SYSTEMATIC_REVIEW_OF_SECURITY_CHALLENGES_IN_CLOUD_COMPUTING">View on Academia.edu →</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.academia.edu/34008582/ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_doc"><img src="assets/research-social-network-analysis.svg" width="280" alt="Analyzing Social Network Activities on Audience Reactions: The Case of Supermarkets on Facebook — research topic card" /></a><br/>
+<a href="https://www.academia.edu/34008582/ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_doc"><b>Analyzing Social Network Activities on Audience Reactions: The Case of Supermarkets on Facebook</b></a><br/><br/>
+<sub>Research writing</sub>
+<p>Research exploring audience engagement with supermarket brand posts on Facebook.</p>
+<a href="https://www.academia.edu/34008582/ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_doc">View on Academia.edu →</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.academia.edu/9877990/HOW_LEXILE_MEASURES_INCREASES_STUDENTS_CAPACITY_TO_READ"><img src="assets/research-lexile-reading.svg" width="280" alt="How Lexile Measures Increases Students Capacity to Read — research topic card" /></a><br/>
+<a href="https://www.academia.edu/9877990/HOW_LEXILE_MEASURES_INCREASES_STUDENTS_CAPACITY_TO_READ"><b>How Lexile Measures Increases Students Capacity to Read</b></a><br/><br/>
+<sub>Academic writing</sub>
+<p>Academic writing on Lexile measures and students’ reading capacity.</p>
+<a href="https://www.academia.edu/9877990/HOW_LEXILE_MEASURES_INCREASES_STUDENTS_CAPACITY_TO_READ">View on Academia.edu →</a>
+</td>
+</tr>
+</table>
+
+**Supporting research data:** [Social Network Activities and Audience Reactions — spreadsheet](https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx).
+
+<sub>The images above are designed topic cards. Links lead to the uploaded academic work and its available details on Academia.edu.</sub>
+
+<p align="center">
+<a href="https://independent.academia.edu/KelvinkingOlupitanOmoregie"><b>🎓 Explore My Academia.edu Profile</b></a>
 </p>
 
 ## Professional & Business Skills
