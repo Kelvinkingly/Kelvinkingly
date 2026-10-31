@@ -4,6 +4,8 @@
 
 <p align="center"><b>PYTHON &nbsp; / &nbsp; MACHINE LEARNING &nbsp; / &nbsp; APPLIED AI</b></p>
 <p align="center">Software &amp; Web Development · Chatbot Design · AI Automation · Technical Writing</p>
+<p align="center"><b>Business Consultancy · Human Resource Management · Talent Acquisition</b><br/>
+Workforce Training · Research &amp; Writing · Blockchain &amp; Cryptography</p>
 
 
 <p align="center">
@@ -19,6 +21,21 @@ I'm **Kelvinking Olupitan Omoregie**, a business consultant, technology strategi
 My interests sit at the intersection of **Python, machine learning and business problem-solving**: using data to understand complex situations, exploring predictive systems and translating ideas into useful software.
 
 This portfolio brings together my code, technical experiments and project documentation across **software development, web development, programming, chatbot design, AI automation and technical writing**.
+
+## Professional & Business Skills
+
+<p align="center">
+<img src="assets/professional-skills.svg" width="100%" alt="Business Consultancy · Human Resource Management · Talent Acquisition · Workforce Training · Research and Writing · Blockchain and Cryptography" />
+</p>
+
+| Area | Focus |
+| :--- | :--- |
+| **Business Consultancy** | Business development, strategy and operational improvement |
+| **Human Resource Management** | People processes, organisational capability and workforce planning |
+| **Talent Acquisition** | Recruitment workflows, candidate assessment and talent matching |
+| **Workforce Training** | Skills development, AI adoption and practical training resources |
+| **Research & Writing** | Research synthesis, articles, reports and technical documentation |
+| **Blockchain & Cryptography** | Distributed systems, digital assets and cryptographic concepts |
 
 ## Skills & Technology Ecosystem
 
