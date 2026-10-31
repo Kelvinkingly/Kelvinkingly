@@ -136,7 +136,7 @@ My **16-book series** explores AI across business operations, individual product
 
 My academic and research writing explores **technology, security, business communication and education**. I share selected work through **[Academia.edu](https://independent.academia.edu/KelvinkingOlupitanOmoregie)**, connecting research questions with practical challenges.
 
-### Selected Research & Academic Work
+### Five Academic & Research Works
 
 <table>
 <tr>
@@ -164,7 +164,24 @@ My academic and research writing explores **technology, security, business commu
 </tr>
 </table>
 
-**Supporting research data:** [Social Network Activities and Audience Reactions — spreadsheet](https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx).
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://www.academia.edu/179910469/Design_and_Implementation_of_a_Machine_Learning_Based_Weather_Prediction_and_Forecasting_System"><img src="assets/research-weather-prediction.svg" width="280" alt="Design and Implementation of a Machine Learning-Based Weather Prediction and Forecasting System — research topic card" /></a><br/>
+<a href="https://www.academia.edu/179910469/Design_and_Implementation_of_a_Machine_Learning_Based_Weather_Prediction_and_Forecasting_System"><b>Design and Implementation of a Machine Learning-Based Weather Prediction and Forecasting System</b></a><br/><br/>
+<sub>Research project</sub>
+<p>Research on the design and implementation of a machine-learning-based weather forecasting system.</p>
+<a href="https://www.academia.edu/179910469/Design_and_Implementation_of_a_Machine_Learning_Based_Weather_Prediction_and_Forecasting_System">View on Academia.edu →</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx"><img src="assets/research-social-network-dataset.svg" width="280" alt="Data — Analyzing Social Network Activities on Audience Reactions: The Case of Supermarkets on Facebook — research topic card" /></a><br/>
+<a href="https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx"><b>Data — Analyzing Social Network Activities on Audience Reactions: The Case of Supermarkets on Facebook</b></a><br/><br/>
+<sub>Supporting dataset</sub>
+<p>Supporting spreadsheet for the study of supermarket brands and Facebook audience reactions.</p>
+<a href="https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx">View on Academia.edu →</a>
+</td>
+</tr>
+</table>
 
 <sub>The images above are designed topic cards. Links lead to the uploaded academic work and its available details on Academia.edu.</sub>
 
