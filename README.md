@@ -134,7 +134,7 @@ My **16-book series** explores AI across business operations, individual product
 
 ## 🎓 Academic & Research Writing
 
-My academic and research writing explores **technology, security, business communication and education**. I share selected work through **[Academia.edu](https://independent.academia.edu/KelvinkingOlupitanOmoregie)**, connecting research questions with practical challenges.
+My academic and research writing explores **artificial intelligence, originality and ownership, security, business communication and education**. I share selected work through **[Academia.edu](https://independent.academia.edu/KelvinkingOlupitanOmoregie)**, connecting research questions with practical challenges.
 
 ### Five Academic & Research Works
 
@@ -174,14 +174,16 @@ My academic and research writing explores **technology, security, business commu
 <a href="https://www.academia.edu/179910469/Design_and_Implementation_of_a_Machine_Learning_Based_Weather_Prediction_and_Forecasting_System">View on Academia.edu →</a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx"><img src="assets/research-social-network-dataset.svg" width="280" alt="Data — Analyzing Social Network Activities on Audience Reactions: The Case of Supermarkets on Facebook — research topic card" /></a><br/>
-<a href="https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx"><b>Data — Analyzing Social Network Activities on Audience Reactions: The Case of Supermarkets on Facebook</b></a><br/><br/>
-<sub>Supporting dataset</sub>
-<p>Supporting spreadsheet for the study of supermarket brands and Facebook audience reactions.</p>
-<a href="https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx">View on Academia.edu →</a>
+<a href="https://www.academia.edu/179843588/Authenticity_Ownership_and_Originality_in_the_Age_of_AI"><img src="assets/research-authenticity-ai.svg" width="280" alt="Authenticity, Ownership and Originality in the Age of AI — research topic card" /></a><br/>
+<a href="https://www.academia.edu/179843588/Authenticity_Ownership_and_Originality_in_the_Age_of_AI"><b>Authenticity, Ownership and Originality in the Age of AI</b></a><br/><br/>
+<sub>Research writing</sub>
+<p>Research writing exploring authenticity, ownership and originality in the context of artificial intelligence.</p>
+<a href="https://www.academia.edu/179843588/Authenticity_Ownership_and_Originality_in_the_Age_of_AI">View on Academia.edu →</a>
 </td>
 </tr>
 </table>
+
+**Supporting research data:** [Social Network Activities and Audience Reactions — spreadsheet](https://www.academia.edu/34008583/DATA_ANALYZING_SOCIAL_NETWORK_ACTIVITIES_ON_AUDIENCE_REACTIONS_THE_CASE_OF_SUPERMARKETS_ON_FACEBOOK_xlsx).
 
 <sub>The images above are designed topic cards. Links lead to the uploaded academic work and its available details on Academia.edu.</sub>
 
