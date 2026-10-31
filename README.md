@@ -9,7 +9,7 @@ Workforce Training · Research &amp; Writing · Blockchain &amp; Cryptography</p
 
 
 <p align="center">
-<a href="#about">About</a> · <a href="#skills--technology-ecosystem">Skills &amp; Tools</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
+<a href="#about">About</a> · <a href="#-knowedge-publishing--my-books">My Books</a> · <a href="#skills--technology-ecosystem">Skills &amp; Tools</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
 </p>
 
 ---
@@ -25,6 +25,112 @@ Through **research, writing and technical documentation**, I translate complex i
 I also lead **[KnowEdge Publishing](https://knowedgepublishing.com)**, my publishing platform for practical knowledge, professional development and business education. My books include the **AI Business Series**, exploring how entrepreneurs, professionals and organisations can apply AI across business operations, management, marketing, finance, customer experience and talent development.
 
 This portfolio brings together my **code, technical experiments, research and project documentation**, reflecting my commitment to useful technology, clear communication and practical business value.
+
+## 📚 KnowEdge Publishing & My Books
+
+I founded **[KnowEdge Publishing](https://knowedgepublishing.com/)** to bring together my books, practical resources and learning experiences for entrepreneurs, professionals and organisations. My writing connects business strategy, technology and responsible AI adoption with everyday work.
+
+### The AI-Powered Business Series
+
+My **16-book series** explores AI across business operations, individual productivity, leadership, governance, marketing, finance, customer experience, people, innovation and business growth.
+
+**Select a cover or title to explore the book.**
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-business-operating-system"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-business-operating-system.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Business Operating System — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 1</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-business-operating-system"><b>The AI-Powered Business Operating System</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-one-person-business"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-one-person-business.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered One-Person Business — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 2</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-one-person-business"><b>The AI-Powered One-Person Business</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/ai-agents-for-small-business"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fai-agents-for-small-business.png&amp;w=3840&amp;q=75" width="150" alt="AI Agents for Small Business — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 3</sub><br/>
+<a href="https://knowedgepublishing.com/books/ai-agents-for-small-business"><b>AI Agents for Small Business</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-ready-manager"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-ready-manager.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Ready Manager — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 4</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-ready-manager"><b>The AI-Ready Manager</b></a>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-ready-professional"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-ready-professional.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Ready Professional — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 5</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-ready-professional"><b>The AI-Ready Professional</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-governance-playbook"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-governance-playbook.jpg&amp;w=3840&amp;q=75" width="150" alt="The AI Governance Playbook — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 6</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-governance-playbook"><b>The AI Governance Playbook</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-marketing-and-sales-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-marketing-and-sales-engine.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Marketing and Sales Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 7</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-marketing-and-sales-engine"><b>The AI-Powered Marketing and Sales Engine</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-finance-and-decision-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-finance-and-decision-engine.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Finance and Decision Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 8</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-finance-and-decision-engine"><b>The AI-Powered Finance and Decision Engine</b></a>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-customer-experience-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-customer-experience-engine.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Customer Experience Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 9</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-customer-experience-engine"><b>The AI-Powered Customer Experience Engine</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-people-and-talent-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-people-and-talent-engine.png&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered People and Talent Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 10</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-people-and-talent-engine"><b>The AI-Powered People and Talent Engine</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-operations-and-supply-chain-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-operations-and-supply-chain-engine.jpg&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Operations and Supply Chain Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 11</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-operations-and-supply-chain-engine"><b>The AI-Powered Operations and Supply Chain Engine</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-innovation-and-product-development-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-innovation-and-product-development-engine.jpg&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Innovation and Product Development Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 12</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-innovation-and-product-development-engine"><b>The AI-Powered Innovation and Product Development Engine</b></a>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-data-and-knowledge-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-data-and-knowledge-engine.jpg&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Data and Knowledge Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 13</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-data-and-knowledge-engine"><b>The AI-Powered Data and Knowledge Engine</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-powered-cybersecurity-and-business-resilience-engine"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-powered-cybersecurity-and-business-resilience-engine.jpg&amp;w=3840&amp;q=75" width="150" alt="The AI-Powered Cybersecurity and Business Resilience Engine — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 14</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-powered-cybersecurity-and-business-resilience-engine"><b>The AI-Powered Cybersecurity and Business Resilience Engine</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/the-ai-strategy-and-transformation-playbook"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fthe-ai-strategy-and-transformation-playbook.png&amp;w=3840&amp;q=75" width="150" alt="The AI Strategy and Transformation Playbook — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 15</sub><br/>
+<a href="https://knowedgepublishing.com/books/the-ai-strategy-and-transformation-playbook"><b>The AI Strategy and Transformation Playbook</b></a>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://knowedgepublishing.com/books/building-and-monetising-ai-powered-businesses"><img src="https://knowedgepublishing.com/_next/image?url=%2Fcovers%2Fbuilding-and-monetising-ai-powered-businesses.jpg&amp;w=3840&amp;q=75" width="150" alt="Building and Monetising AI-Powered Businesses — Kelvinking Olupitan Omoregie" /></a><br/>
+<sub>Book 16</sub><br/>
+<a href="https://knowedgepublishing.com/books/building-and-monetising-ai-powered-businesses"><b>Building and Monetising AI-Powered Businesses</b></a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://knowedgepublishing.com/books"><b>📖 Explore All Books</b></a> &nbsp;·&nbsp;
+<a href="https://knowedgepublishing.com/"><b>🌐 Visit KnowEdge Publishing</b></a>
+</p>
 
 ## Professional & Business Skills
 
