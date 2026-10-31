@@ -16,11 +16,15 @@ Workforce Training · Research &amp; Writing · Blockchain &amp; Cryptography</p
 
 ## About
 
-I'm **Kelvinking Olupitan Omoregie**, a business consultant, technology strategist and founder of **KnowEdge Business Development Services Ltd**.
+I'm **Kelvinking Olupitan Omoregie**, a business consultant, technology strategist, author and founder of **KnowEdge Business Development Services Ltd**. I connect technology, business strategy and people development to turn ideas into practical solutions.
 
-My interests sit at the intersection of **Python, machine learning and business problem-solving**: using data to understand complex situations, exploring predictive systems and translating ideas into useful software.
+My work spans **Python, machine learning, software and web development, programming, AI-assisted development, chatbot design and AI automation**. My broader interests include **blockchain, cryptography, predictive analytics and AI evaluation**, alongside **business consultancy, human resource management, talent acquisition and workforce training**.
 
-This portfolio brings together my code, technical experiments and project documentation across **software development, web development, programming, chatbot design, AI automation and technical writing**.
+Through **research, writing and technical documentation**, I translate complex ideas into accessible knowledge—from product requirements and software guides to business resources and books.
+
+I also lead **[KnowEdge Publishing](https://knowedgepublishing.com)**, my publishing platform for practical knowledge, professional development and business education. My books include the **AI Business Series**, exploring how entrepreneurs, professionals and organisations can apply AI across business operations, management, marketing, finance, customer experience and talent development.
+
+This portfolio brings together my **code, technical experiments, research and project documentation**, reflecting my commitment to useful technology, clear communication and practical business value.
 
 ## Professional & Business Skills
 
