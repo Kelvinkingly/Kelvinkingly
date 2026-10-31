@@ -1,84 +1,89 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Kelvinking Olupitan Omoregie — Python, Machine Learning and Applied AI" width="100%" />
+<img src="assets/profile-banner.svg" width="100%" alt="Kelvinking Olupitan Omoregie | Python • Machine Learning • Applied AI" />
 </p>
 
-<p align="center">
-  <b>Business Consultant &amp; Technology Strategist</b><br/>
-  Building a foundation in Python, software development and machine learning.
-</p>
+<p align="center"><b>PYTHON &nbsp; / &nbsp; MACHINE LEARNING &nbsp; / &nbsp; APPLIED AI</b></p>
+<p align="center">Business insight. Data-driven thinking. Practical technology.</p>
 
 <p align="center">
-  <a href="#about-me">About</a> &nbsp;·&nbsp;
-  <a href="#current-focus">Current Focus</a> &nbsp;·&nbsp;
-  <a href="#portfolio-roadmap">Portfolio Roadmap</a> &nbsp;·&nbsp;
-  <a href="#how-i-build">How I Build</a>
+<a href="#about">About</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
 </p>
 
 ---
 
-## About me
+## About
 
-I'm **Kelvinking Olupitan Omoregie**, a business consultant, technology strategist and founder of **KnowEdge Business Development Services Ltd**, based in Nigeria.
+I'm **Kelvinking Olupitan Omoregie**, a business consultant, technology strategist and founder of **KnowEdge Business Development Services Ltd**.
 
-My work connects business problems with technology. Having explored AI-assisted development and rapid prototyping, I am now strengthening my ability to **write, understand, test and debug Python independently**.
+My interests sit at the intersection of **Python, machine learning and business problem-solving**: using data to understand complex situations, exploring predictive systems and translating ideas into useful software.
 
-This profile documents that journey through practical exercises, useful software and, as my skills develop, reproducible machine-learning experiments.
+This portfolio brings together my code, technical experiments and project documentation.
 
-## Current focus
+## Technical focus
 
-| Learning now | Direction |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python & Software
+- Python applications and automation
+- Data processing and analytical workflows
+- Reusable functions and modular design
+- Debugging, testing and code analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+- Predictive modelling
+- Regression and classification
+- Feature preparation and selection
+- Baselines, validation and error analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data & Forecasting
+- Exploratory data analysis
+- Data quality and visualisation
+- Time-series and weather forecasting
+- Business performance insights
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Applied AI
+- AI-assisted software prototyping
+- LLM applications and coding agents
+- Code quality and model evaluation
+- Practical business use cases
+
+</td>
+</tr>
+</table>
+
+## Application domains
+
+**Business Analytics** · **Forecasting** · **Operational Automation** · **Decision Support** · **AI Evaluation**
+
+I am particularly interested in connecting technical work to clear requirements, measurable outcomes and useful explanations.
+
+## Engineering principles
+
+| Principle | What matters |
 | :--- | :--- |
-| **Python foundations** | Variables, control flow, collections and functions |
-| **Problem-solving** | Turn a written requirement into small, testable steps |
-| **Software quality** | Debugging, input validation and automated tests |
-| **Git & GitHub** | Version control, clear documentation and project history |
+| **Correctness** | Implement the requirement and check boundary cases. |
+| **Reproducibility** | Document dependencies, data preparation and execution steps. |
+| **Evaluation** | Use appropriate baselines, metrics and validation methods. |
+| **Clarity** | Keep code readable and explain assumptions and limitations. |
+| **Practical value** | Connect technical decisions to the problem being solved. |
 
-**Next:** data analysis, statistics, model evaluation and introductory machine learning.
+## Explore my work
 
-## Areas of interest
-
-- **Business analytics:** turning operational data into useful insights.
-- **Forecasting:** exploring patterns in time-dependent data.
-- **Applied machine learning:** evaluating models against meaningful baselines.
-- **AI coding evaluation:** understanding correctness, failure modes and test quality.
-
-## Portfolio roadmap
-
-These are **planned learning projects**, not completed work. Links and results will be added when implementations are available.
-
-| Project | Purpose | Status |
-| :--- | :--- | :--- |
-| **Python Learning Journey** | Exercises, explanations and daily practice | Planned |
-| **Business Expense Tracker** | Functions, validation, file storage and summaries | Planned |
-| **Inventory Manager** | Product records, stock movements and tests | Planned |
-| **Data Analysis Case Study** | Clean, explore and explain a public dataset | Planned |
-| **First ML Experiment** | Compare a baseline and model using a documented split | Planned |
-| **Code Review Lab** | Reproduce defects and explain evidence-based fixes | Planned |
-
-## How I build
-
-**Understand → Plan → Implement → Test → Explain**
-
-- Write clear requirements before coding.
-- Practise core skills without AI-generated solutions.
-- Explain the logic behind each implementation.
-- Test normal inputs, boundary cases and invalid inputs.
-- Document setup steps, limitations and lessons learned.
-- Distinguish independent work from AI-assisted work.
-
-## Learning milestones
-
-- [ ] Write small Python programs independently.
-- [ ] Build an application that saves and reloads data.
-- [ ] Add useful automated tests.
-- [ ] Organise a project into readable modules.
-- [ ] Complete a documented data-analysis project.
-- [ ] Train and evaluate an introductory machine-learning model.
-- [ ] Review a code change and support findings with tests.
+Browse my [public repositories](https://github.com/Kelvinkingly?tab=repositories) for available code and documentation. Each project's README is the source for its implementation details, technology stack and current status.
 
 ---
 
-<p align="center">
-  <b>Learning in public. Building with purpose.</b><br/>
-  <sub>Python · Data · Machine Learning · Software Quality</sub>
-</p>
+<p align="center"><b>From business questions to computational solutions.</b><br/><sub>Kelvinking Olupitan Omoregie · Nigeria</sub></p>
