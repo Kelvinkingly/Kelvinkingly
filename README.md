@@ -32,23 +32,31 @@ A selection of independently developed, live WordPress portfolio platforms by **
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://healthconnect-knowedge.infinityfreeapp.com/"><img src="assets/healthconnect-homepage.jpg" width="100%" alt="HealthConnect live homepage" /></a><br/>
 <b>HealthConnect</b><br/>
 <p>Healthcare · Patient-facing provider and clinic directories, appointment preview.</p>
 <a href="https://healthconnect-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/healthconnect-wordpress">Source code</a>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://civicconnect-knowedge.infinityfreeapp.com/"><img src="assets/civicconnect-homepage.jpg" width="100%" alt="CivicConnect live homepage" /></a><br/>
 <b>CivicConnect</b><br/>
 <p>Municipal services · Searchable public records, service request preview and interactive citizen assistant.</p>
 <a href="https://civicconnect-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/civicconnect-wordpress">Source code</a>
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://impacthub-knowedge.infinityfreeapp.com/"><img src="assets/impacthub-homepage.jpg" width="100%" alt="ImpactHub live homepage" /></a><br/>
 <b>ImpactHub</b><br/>
 <p>Nonprofit · Campaigns, impact reporting, giving and volunteer workflows.</p>
 <a href="https://impacthub-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/impacthub-wordpress">Source code</a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://coopconnect-knowedge.infinityfreeapp.com/"><img src="assets/coopconnect-homepage.jpg" width="100%" alt="CoopConnect live homepage" /></a><br/>
+<b>CoopConnect</b><br/>
+<p>Cooperative development · Searchable funding and resources, member engagement and interactive impact reporting.</p>
+<a href="https://coopconnect-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/coopconnect-wordpress">Source code</a>
 </td>
 </tr>
 </table>
