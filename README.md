@@ -9,7 +9,7 @@ Workforce Training · Research &amp; Writing · Blockchain &amp; Cryptography</p
 
 
 <p align="center">
-<a href="#about">About</a> · <a href="#-knowedge-publishing--my-books">My Books</a> · <a href="#-academic--research-writing">Research</a> · <a href="#skills--technology-ecosystem">Skills &amp; Tools</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
+<a href="#about">About</a> · <a href="#featured-web-development-projects">Web Projects</a> · <a href="#-knowedge-publishing--my-books">My Books</a> · <a href="#-academic--research-writing">Research</a> · <a href="#skills--technology-ecosystem">Skills &amp; Tools</a> · <a href="#technical-focus">Technical Focus</a> · <a href="#application-domains">Applications</a> · <a href="#engineering-principles">Engineering</a>
 </p>
 
 ---
@@ -25,6 +25,33 @@ Through **research, writing and technical documentation**, I translate complex i
 I also lead **[KnowEdge Publishing](https://knowedgepublishing.com)**, my publishing platform for practical knowledge, professional development and business education. My books include the **AI Business Series**, exploring how entrepreneurs, professionals and organisations can apply AI across business operations, management, marketing, finance, customer experience and talent development.
 
 This portfolio brings together my **code, technical experiments, research and project documentation**, reflecting my commitment to useful technology, clear communication and practical business value.
+
+## Featured Web Development Projects
+
+A selection of independently developed, live WordPress portfolio platforms by **KnowEdge Business Development Services Ltd**. Select any homepage thumbnail to explore its live website.
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://healthconnect-knowedge.infinityfreeapp.com/"><img src="assets/healthconnect-homepage.jpg" width="100%" alt="HealthConnect live homepage" /></a><br/>
+<b>HealthConnect</b><br/>
+<p>Healthcare · Patient-facing provider and clinic directories, appointment preview.</p>
+<a href="https://healthconnect-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/healthconnect-wordpress">Source code</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://civicconnect-knowedge.infinityfreeapp.com/"><img src="assets/civicconnect-homepage.jpg" width="100%" alt="CivicConnect live homepage" /></a><br/>
+<b>CivicConnect</b><br/>
+<p>Municipal services · Searchable public records, service request preview and interactive citizen assistant.</p>
+<a href="https://civicconnect-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/civicconnect-wordpress">Source code</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://impacthub-knowedge.infinityfreeapp.com/"><img src="assets/impacthub-homepage.jpg" width="100%" alt="ImpactHub live homepage" /></a><br/>
+<b>ImpactHub</b><br/>
+<p>Nonprofit · Campaigns, impact reporting, giving and volunteer workflows.</p>
+<a href="https://impacthub-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/impacthub-wordpress">Source code</a>
+</td>
+</tr>
+</table>
 
 ## 📚 KnowEdge Publishing & My Books
 
