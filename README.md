@@ -87,6 +87,15 @@ A selection of independently developed, live WordPress portfolio platforms by **
 <a href="https://learnsphere-knowedge.infinityfree.io/">Live website</a> · <a href="https://github.com/Kelvinkingly/learnsphere-wordpress">Source code</a>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://ateliernorth-knowedge.infinityfree.io/"><img src="assets/atelier-north-homepage.jpg" width="100%" alt="Atelier North live homepage" /></a><br/>
+<b>Atelier North</b><br/>
+<p>Ecommerce · Editorial homeware storefront, searchable catalogue, product details, shopping bag and checkout preview.</p>
+<a href="https://ateliernorth-knowedge.infinityfree.io/">Live website</a> · <a href="https://github.com/Kelvinkingly/atelier-north-wordpress">Source code</a>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ## 📚 KnowEdge Publishing & My Books
