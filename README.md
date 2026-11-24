@@ -94,7 +94,12 @@ A selection of independently developed, live WordPress portfolio platforms by **
 <p>Ecommerce · Editorial homeware storefront, searchable catalogue, product details, shopping bag and checkout preview.</p>
 <a href="https://ateliernorth-knowedge.infinityfree.io/">Live website</a> · <a href="https://github.com/Kelvinkingly/atelier-north-wordpress">Source code</a>
 </td>
-<td width="50%"></td>
+<td width="50%" align="center" valign="top">
+<a href="https://meridiancapital-knowedge.infinityfree.io/"><img src="assets/meridian-capital-homepage.jpg" width="100%" alt="Meridian Capital live homepage" /></a><br/>
+<b>Meridian Capital</b><br/>
+<p>Financial services · Interactive compound-growth calculator, illustrative market dashboard, financial education and consultation enquiry builder.</p>
+<a href="https://meridiancapital-knowedge.infinityfree.io/">Live website</a> · <a href="https://github.com/Kelvinkingly/meridian-capital-wordpress">Source code</a>
+</td>
 </tr>
 </table>
 
