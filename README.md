@@ -66,7 +66,12 @@ A selection of independently developed, live WordPress portfolio platforms by **
 <p>Luxury hospitality · Room listings, reservation planning, guest-capacity filtering and estimated stay pricing.</p>
 <a href="https://luxestay-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/luxestay-wordpress">Source code</a>
 </td>
-<td width="50%"></td>
+<td width="50%" align="center" valign="top">
+<a href="https://estateprime-knowedge.infinityfreeapp.com/"><img src="assets/estateprime-homepage.jpg" width="100%" alt="EstatePrime live homepage" /></a><br/>
+<b>EstatePrime</b><br/>
+<p>Real estate · Property search, saved listings, interactive mortgage estimates and viewing previews.</p>
+<a href="https://estateprime-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/estateprime-wordpress">Source code</a>
+</td>
 </tr>
 </table>
 
