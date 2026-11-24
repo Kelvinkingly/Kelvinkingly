@@ -73,6 +73,15 @@ A selection of independently developed, live WordPress portfolio platforms by **
 <a href="https://estateprime-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/estateprime-wordpress">Source code</a>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://dinehouse-knowedge.infinityfreeapp.com/"><img src="assets/dinehouse-homepage.jpg" width="100%" alt="DineHouse live homepage" /></a><br/>
+<b>DineHouse</b><br/>
+<p>Restaurant · Interactive menu, dietary filters, cart and table reservation planning.</p>
+<a href="https://dinehouse-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/dinehouse-wordpress">Source code</a>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ## 📚 KnowEdge Publishing & My Books
