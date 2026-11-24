@@ -80,7 +80,12 @@ A selection of independently developed, live WordPress portfolio platforms by **
 <p>Restaurant · Interactive menu, dietary filters, cart and table reservation planning.</p>
 <a href="https://dinehouse-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/dinehouse-wordpress">Source code</a>
 </td>
-<td width="50%"></td>
+<td width="50%" align="center" valign="top">
+<a href="https://learnsphere-knowedge.infinityfree.io/"><img src="assets/learnsphere-homepage.jpg" width="100%" alt="LearnSphere live homepage" /></a><br/>
+<b>LearnSphere</b><br/>
+<p>Education technology · Searchable course catalogue, learning workspace, local lesson progress and interactive knowledge checks.</p>
+<a href="https://learnsphere-knowedge.infinityfree.io/">Live website</a> · <a href="https://github.com/Kelvinkingly/learnsphere-wordpress">Source code</a>
+</td>
 </tr>
 </table>
 
