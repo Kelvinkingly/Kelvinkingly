@@ -59,6 +59,15 @@ A selection of independently developed, live WordPress portfolio platforms by **
 <a href="https://coopconnect-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/coopconnect-wordpress">Source code</a>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://luxestay-knowedge.infinityfreeapp.com/"><img src="assets/luxestay-homepage.jpg" width="100%" alt="LuxeStay live homepage" /></a><br/>
+<b>LuxeStay</b><br/>
+<p>Luxury hospitality · Room listings, reservation planning, guest-capacity filtering and estimated stay pricing.</p>
+<a href="https://luxestay-knowedge.infinityfreeapp.com/">Live website</a> · <a href="https://github.com/Kelvinkingly/luxestay-wordpress">Source code</a>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ## 📚 KnowEdge Publishing & My Books
